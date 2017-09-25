@@ -4,7 +4,7 @@
  """
 
 def generate_fibonacci_series(n):
-    """Genrate fibonacci series from 0 to nth term
+    """Generate fibonacci series from 0 to nth term
     args:
         n->nth term of fibonnaci series    
     Returns:
